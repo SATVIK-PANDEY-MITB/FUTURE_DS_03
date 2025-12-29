@@ -1,0 +1,751 @@
+Timestamp,Student_ID,Event_Name,Event_Type,Department,Rating,Feedback_Comment,Subject_Knowledge_Score,Concept_Clarity_Score,Use_of_PPT,Assignment_Difficulty_Level,Sentiment
+01-12-2023 00:00,STU2000,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+10-06-2023 00:00,STU2001,Tech Fest 2023,Fest,Cs,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,3,1,5,Negative
+26-11-2023 00:00,STU2002,Tech Fest 2023,Fest,It,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,3,1,3,Negative
+14-06-2023 00:00,STU2003,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+25-01-2023 00:00,STU2004,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+20-01-2023 00:00,STU2005,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+27-11-2023 00:00,STU2006,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,2,1,4,Neutral
+14-03-2023 00:00,STU2007,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+01-01-2023 00:00,STU2008,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+23-10-2023 00:00,STU2009,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,1,1,2,Neutral
+05-02-2023 00:00,STU2010,Tech Fest 2023,Fest,Cs,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",1,2,1,3,Negative
+21-09-2023 00:00,STU2011,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+20-11-2023 00:00,STU2012,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+16-08-2023 00:00,STU2013,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+01-02-2023 00:00,STU2014,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+27-11-2023 00:00,STU2015,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+25-07-2023 00:00,STU2016,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+12-04-2023 00:00,STU2017,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+07-05-2023 00:00,STU2018,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+11-12-2023 00:00,STU2019,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+11-03-2023 00:00,STU2020,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+26-06-2023 00:00,STU2021,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+04-08-2023 00:00,STU2022,Cloud Seminar,Seminar,Civil,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,2,1,3,Negative
+29-07-2023 00:00,STU2023,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+23-10-2023 00:00,STU2024,AI Workshop,Workshop,Mech,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,3,1,5,Negative
+23-02-2023 00:00,STU2025,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+29-07-2023 00:00,STU2026,Tech Fest 2023,Fest,It,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,3,1,1,Negative
+10-09-2023 00:00,STU2027,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+24-11-2023 00:00,STU2028,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+27-09-2023 00:00,STU2029,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+01-12-2023 00:00,STU2030,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+16-04-2023 00:00,STU2031,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+10-10-2023 00:00,STU2032,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+08-06-2023 00:00,STU2033,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+21-07-2023 00:00,STU2034,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+12-12-2023 00:00,STU2035,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+10-08-2023 00:00,STU2036,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+01-05-2023 00:00,STU2037,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+03-03-2023 00:00,STU2038,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+06-11-2023 00:00,STU2039,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+27-09-2023 00:00,STU2040,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+28-01-2023 00:00,STU2041,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+11-03-2023 00:00,STU2042,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+08-04-2023 00:00,STU2043,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+05-10-2023 00:00,STU2044,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",1,2,1,5,Neutral
+01-05-2023 00:00,STU2045,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+24-12-2023 00:00,STU2046,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+15-06-2023 00:00,STU2047,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+11-05-2023 00:00,STU2048,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+06-02-2023 00:00,STU2049,Tech Fest 2023,Fest,It,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,3,1,3,Neutral
+05-03-2023 00:00,STU2050,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+19-02-2023 00:00,STU2051,Tech Fest 2023,Fest,Cs,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,2,1,4,Neutral
+28-02-2023 00:00,STU2052,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+23-05-2023 00:00,STU2053,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+27-11-2023 00:00,STU2054,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+19-05-2023 00:00,STU2055,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+25-08-2023 00:00,STU2056,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+03-11-2023 00:00,STU2057,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+25-11-2023 00:00,STU2058,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+26-02-2023 00:00,STU2059,AI Workshop,Workshop,It,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,1,1,5,Neutral
+08-07-2023 00:00,STU2060,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+24-02-2023 00:00,STU2061,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+30-10-2023 00:00,STU2062,Cloud Seminar,Seminar,It,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,3,1,4,Negative
+14-05-2023 00:00,STU2063,Cloud Seminar,Seminar,Cs,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,1,1,4,Negative
+14-09-2023 00:00,STU2064,Hackathon,Hackathon,It,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",3,1,1,5,Negative
+24-12-2023 00:00,STU2065,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,3,1,1,Neutral
+01-03-2023 00:00,STU2066,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+11-07-2023 00:00,STU2067,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+27-07-2023 00:00,STU2068,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+27-04-2023 00:00,STU2069,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+17-07-2023 00:00,STU2070,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+07-07-2023 00:00,STU2071,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+22-04-2023 00:00,STU2072,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+20-03-2023 00:00,STU2073,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+20-04-2023 00:00,STU2074,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,3,1,4,Negative
+09-11-2023 00:00,STU2075,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+25-05-2023 00:00,STU2076,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+13-03-2023 00:00,STU2077,Cloud Seminar,Seminar,Cs,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,1,1,5,Neutral
+15-04-2023 00:00,STU2078,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+25-11-2023 00:00,STU2079,Cloud Seminar,Seminar,Civil,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,2,1,3,Neutral
+04-01-2023 00:00,STU2080,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+28-07-2023 00:00,STU2081,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+01-11-2023 00:00,STU2082,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+11-09-2023 00:00,STU2083,Hackathon,Hackathon,Mech,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",1,1,1,5,Negative
+05-06-2023 00:00,STU2084,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+13-11-2023 00:00,STU2085,Tech Fest 2023,Fest,Mech,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,3,1,3,Neutral
+13-07-2023 00:00,STU2086,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+11-04-2023 00:00,STU2087,Hackathon,Hackathon,Mech,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",1,1,1,3,Neutral
+15-02-2023 00:00,STU2088,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+17-05-2023 00:00,STU2089,Hackathon,Hackathon,Civil,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",2,3,1,4,Neutral
+08-08-2023 00:00,STU2090,Tech Fest 2023,Fest,Mech,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,1,1,3,Negative
+16-09-2023 00:00,STU2091,Cloud Seminar,Seminar,It,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,2,1,5,Negative
+29-08-2023 00:00,STU2092,Hackathon,Hackathon,It,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",2,1,1,2,Negative
+21-09-2023 00:00,STU2093,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+10-12-2023 00:00,STU2094,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+20-03-2023 00:00,STU2095,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+15-09-2023 00:00,STU2096,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+20-08-2023 00:00,STU2097,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+13-04-2023 00:00,STU2098,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+01-03-2023 00:00,STU2099,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+20-09-2023 00:00,STU2100,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+13-05-2023 00:00,STU2101,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+25-06-2023 00:00,STU2102,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+18-09-2023 00:00,STU2103,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+05-11-2023 00:00,STU2104,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+07-03-2023 00:00,STU2105,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+23-01-2023 00:00,STU2106,Hackathon,Hackathon,Cs,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",3,3,1,2,Neutral
+20-06-2023 00:00,STU2107,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+31-03-2023 00:00,STU2108,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+19-02-2023 00:00,STU2109,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+01-11-2023 00:00,STU2110,Tech Fest 2023,Fest,Cs,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,3,1,1,Neutral
+27-11-2023 00:00,STU2111,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+26-02-2023 00:00,STU2112,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+11-11-2023 00:00,STU2113,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+05-06-2023 00:00,STU2114,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+21-05-2023 00:00,STU2115,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+04-09-2023 00:00,STU2116,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+08-11-2023 00:00,STU2117,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+24-02-2023 00:00,STU2118,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+08-11-2023 00:00,STU2119,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+18-10-2023 00:00,STU2120,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+08-09-2023 00:00,STU2121,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+14-03-2023 00:00,STU2122,Hackathon,Hackathon,Cs,1,"I hated the Hackathon, it was terrible and a complete waste of time today.",3,3,1,5,Negative
+30-04-2023 00:00,STU2123,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,2,1,1,Negative
+19-10-2023 00:00,STU2124,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+30-03-2023 00:00,STU2125,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+17-12-2023 00:00,STU2126,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+02-04-2023 00:00,STU2127,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+29-07-2023 00:00,STU2128,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+02-03-2023 00:00,STU2129,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+06-06-2023 00:00,STU2130,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+20-07-2023 00:00,STU2131,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+04-11-2023 00:00,STU2132,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+30-04-2023 00:00,STU2133,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+23-04-2023 00:00,STU2134,AI Workshop,Workshop,Cs,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",1,1,1,2,Negative
+29-11-2023 00:00,STU2135,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+02-05-2023 00:00,STU2136,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+20-06-2023 00:00,STU2137,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+28-11-2023 00:00,STU2138,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+12-07-2023 00:00,STU2139,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+17-03-2023 00:00,STU2140,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+22-10-2023 00:00,STU2141,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+26-08-2023 00:00,STU2142,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+05-07-2023 00:00,STU2143,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+08-10-2023 00:00,STU2144,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+16-06-2023 00:00,STU2145,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+27-06-2023 00:00,STU2146,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+08-07-2023 00:00,STU2147,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+25-07-2023 00:00,STU2148,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+11-10-2023 00:00,STU2149,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+06-06-2023 00:00,STU2150,Tech Fest 2023,Fest,Civil,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,1,1,3,Negative
+13-05-2023 00:00,STU2151,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+15-08-2023 00:00,STU2152,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+20-05-2023 00:00,STU2153,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+12-06-2023 00:00,STU2154,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+25-12-2023 00:00,STU2155,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+14-01-2023 00:00,STU2156,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+18-10-2023 00:00,STU2157,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+01-04-2023 00:00,STU2158,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+12-01-2023 00:00,STU2159,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+13-08-2023 00:00,STU2160,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",1,3,1,4,Neutral
+21-04-2023 00:00,STU2161,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+27-07-2023 00:00,STU2162,Tech Fest 2023,Fest,Civil,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,1,1,2,Negative
+07-04-2023 00:00,STU2163,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+05-09-2023 00:00,STU2164,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+07-05-2023 00:00,STU2165,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+21-02-2023 00:00,STU2166,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+16-06-2023 00:00,STU2167,Cloud Seminar,Seminar,Mech,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",2,3,1,5,Negative
+27-06-2023 00:00,STU2168,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+13-06-2023 00:00,STU2169,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+14-07-2023 00:00,STU2170,Cloud Seminar,Seminar,Cs,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,1,1,4,Negative
+09-01-2023 00:00,STU2171,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+06-03-2023 00:00,STU2172,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+26-07-2023 00:00,STU2173,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+26-10-2023 00:00,STU2174,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+16-12-2023 00:00,STU2175,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+26-06-2023 00:00,STU2176,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+23-02-2023 00:00,STU2177,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+26-07-2023 00:00,STU2178,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+14-01-2023 00:00,STU2179,Cloud Seminar,Seminar,Cs,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",1,3,1,3,Negative
+24-05-2023 00:00,STU2180,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+23-10-2023 00:00,STU2181,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,1,1,3,Negative
+16-08-2023 00:00,STU2182,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+11-02-2023 00:00,STU2183,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+12-05-2023 00:00,STU2184,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+11-09-2023 00:00,STU2185,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+27-07-2023 00:00,STU2186,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+20-01-2023 00:00,STU2187,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+13-11-2023 00:00,STU2188,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+30-07-2023 00:00,STU2189,Tech Fest 2023,Fest,Civil,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",1,1,1,3,Negative
+11-02-2023 00:00,STU2190,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+22-05-2023 00:00,STU2191,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,1,1,5,Neutral
+06-12-2023 00:00,STU2192,Tech Fest 2023,Fest,It,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,3,1,3,Neutral
+10-08-2023 00:00,STU2193,Hackathon,Hackathon,It,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",1,2,1,5,Neutral
+04-01-2023 00:00,STU2194,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+16-07-2023 00:00,STU2195,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+03-10-2023 00:00,STU2196,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+02-10-2023 00:00,STU2197,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+21-07-2023 00:00,STU2198,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+02-04-2023 00:00,STU2199,Tech Fest 2023,Fest,It,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,3,1,1,Neutral
+11-05-2023 00:00,STU2200,Hackathon,Hackathon,Civil,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",1,3,1,5,Negative
+21-04-2023 00:00,STU2201,Hackathon,Hackathon,It,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",3,2,1,5,Neutral
+28-07-2023 00:00,STU2202,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+21-02-2023 00:00,STU2203,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+23-04-2023 00:00,STU2204,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+02-10-2023 00:00,STU2205,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,2,1,2,Neutral
+31-08-2023 00:00,STU2206,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+26-03-2023 00:00,STU2207,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+03-03-2023 00:00,STU2208,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+20-04-2023 00:00,STU2209,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+16-04-2023 00:00,STU2210,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+21-01-2023 00:00,STU2211,AI Workshop,Workshop,Cs,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,1,1,5,Neutral
+04-02-2023 00:00,STU2212,Cloud Seminar,Seminar,It,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,2,1,3,Negative
+05-11-2023 00:00,STU2213,Cloud Seminar,Seminar,Civil,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,2,1,2,Negative
+03-08-2023 00:00,STU2214,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+03-05-2023 00:00,STU2215,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+13-12-2023 00:00,STU2216,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+10-04-2023 00:00,STU2217,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+16-10-2023 00:00,STU2218,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+23-06-2023 00:00,STU2219,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+10-08-2023 00:00,STU2220,Cloud Seminar,Seminar,Civil,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,1,1,5,Neutral
+23-05-2023 00:00,STU2221,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+10-12-2023 00:00,STU2222,Cloud Seminar,Seminar,Cs,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,3,1,4,Neutral
+27-06-2023 00:00,STU2223,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+21-12-2023 00:00,STU2224,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+02-02-2023 00:00,STU2225,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,3,1,5,Neutral
+01-10-2023 00:00,STU2226,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+22-01-2023 00:00,STU2227,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+18-04-2023 00:00,STU2228,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+13-06-2023 00:00,STU2229,Cloud Seminar,Seminar,Cs,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,3,1,2,Neutral
+27-09-2023 00:00,STU2230,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+23-11-2023 00:00,STU2231,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,2,1,2,Neutral
+19-09-2023 00:00,STU2232,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+22-07-2023 00:00,STU2233,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+19-02-2023 00:00,STU2234,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+06-10-2023 00:00,STU2235,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+11-10-2023 00:00,STU2236,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+11-09-2023 00:00,STU2237,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+19-05-2023 00:00,STU2238,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+16-01-2023 00:00,STU2239,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,2,1,1,Neutral
+22-09-2023 00:00,STU2240,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+28-09-2023 00:00,STU2241,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+11-07-2023 00:00,STU2242,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+17-01-2023 00:00,STU2243,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+08-08-2023 00:00,STU2244,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,3,1,3,Neutral
+22-11-2023 00:00,STU2245,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+13-03-2023 00:00,STU2246,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+19-01-2023 00:00,STU2247,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+24-12-2023 00:00,STU2248,AI Workshop,Workshop,Cs,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,2,1,2,Neutral
+14-09-2023 00:00,STU2249,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+22-09-2023 00:00,STU2250,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+20-11-2023 00:00,STU2251,Cloud Seminar,Seminar,Mech,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",1,3,1,1,Negative
+06-05-2023 00:00,STU2252,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+21-01-2023 00:00,STU2253,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+23-07-2023 00:00,STU2254,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+11-11-2023 00:00,STU2255,AI Workshop,Workshop,It,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,2,1,4,Neutral
+04-12-2023 00:00,STU2256,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+07-11-2023 00:00,STU2257,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+04-10-2023 00:00,STU2258,Hackathon,Hackathon,Cs,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",2,2,1,3,Neutral
+18-06-2023 00:00,STU2259,AI Workshop,Workshop,Civil,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,2,1,2,Negative
+03-07-2023 00:00,STU2260,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+25-10-2023 00:00,STU2261,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+10-03-2023 00:00,STU2262,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+15-12-2023 00:00,STU2263,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+22-05-2023 00:00,STU2264,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+08-11-2023 00:00,STU2265,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+05-04-2023 00:00,STU2266,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+29-04-2023 00:00,STU2267,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+06-03-2023 00:00,STU2268,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+10-11-2023 00:00,STU2269,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+04-09-2023 00:00,STU2270,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+05-09-2023 00:00,STU2271,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+15-12-2023 00:00,STU2272,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+17-07-2023 00:00,STU2273,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+05-06-2023 00:00,STU2274,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+06-11-2023 00:00,STU2275,Cloud Seminar,Seminar,Cs,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",1,1,1,1,Negative
+18-01-2023 00:00,STU2276,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+26-06-2023 00:00,STU2277,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+25-05-2023 00:00,STU2278,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+18-01-2023 00:00,STU2279,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+13-02-2023 00:00,STU2280,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+03-06-2023 00:00,STU2281,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+07-05-2023 00:00,STU2282,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+30-08-2023 00:00,STU2283,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+01-07-2023 00:00,STU2284,AI Workshop,Workshop,It,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,3,1,2,Negative
+24-09-2023 00:00,STU2285,AI Workshop,Workshop,Civil,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",3,3,1,4,Neutral
+14-11-2023 00:00,STU2286,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+19-06-2023 00:00,STU2287,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+03-03-2023 00:00,STU2288,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+30-09-2023 00:00,STU2289,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+28-01-2023 00:00,STU2290,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+29-03-2023 00:00,STU2291,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+17-04-2023 00:00,STU2292,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+19-07-2023 00:00,STU2293,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+15-06-2023 00:00,STU2294,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+18-12-2023 00:00,STU2295,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+17-06-2023 00:00,STU2296,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+04-06-2023 00:00,STU2297,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+24-10-2023 00:00,STU2298,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+03-02-2023 00:00,STU2299,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+29-08-2023 00:00,STU2300,Hackathon,Hackathon,Mech,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",1,1,1,1,Neutral
+23-09-2023 00:00,STU2301,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+02-10-2023 00:00,STU2302,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+13-11-2023 00:00,STU2303,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+12-05-2023 00:00,STU2304,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+24-12-2023 00:00,STU2305,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+11-02-2023 00:00,STU2306,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+19-02-2023 00:00,STU2307,Tech Fest 2023,Fest,Civil,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,3,1,3,Negative
+01-01-2023 00:00,STU2308,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,1,1,3,Neutral
+07-07-2023 00:00,STU2309,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+22-06-2023 00:00,STU2310,Hackathon,Hackathon,Mech,1,"I hated the Hackathon, it was terrible and a complete waste of time today.",2,1,1,4,Negative
+13-11-2023 00:00,STU2311,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+01-06-2023 00:00,STU2312,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+26-08-2023 00:00,STU2313,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+12-11-2023 00:00,STU2314,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+23-07-2023 00:00,STU2315,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+13-08-2023 00:00,STU2316,Tech Fest 2023,Fest,Cs,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",1,2,1,3,Negative
+06-12-2023 00:00,STU2317,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+22-02-2023 00:00,STU2318,Hackathon,Hackathon,Civil,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",1,1,1,5,Negative
+08-06-2023 00:00,STU2319,AI Workshop,Workshop,Mech,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,3,1,3,Negative
+25-09-2023 00:00,STU2320,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+03-02-2023 00:00,STU2321,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+12-04-2023 00:00,STU2322,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,3,1,5,Negative
+08-04-2023 00:00,STU2323,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+18-08-2023 00:00,STU2324,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+13-11-2023 00:00,STU2325,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+11-07-2023 00:00,STU2326,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+27-02-2023 00:00,STU2327,Tech Fest 2023,Fest,Cs,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,2,1,1,Neutral
+04-10-2023 00:00,STU2328,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+26-12-2023 00:00,STU2329,Hackathon,Hackathon,It,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",2,2,1,3,Negative
+07-09-2023 00:00,STU2330,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+16-07-2023 00:00,STU2331,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+09-11-2023 00:00,STU2332,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+17-06-2023 00:00,STU2333,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+12-09-2023 00:00,STU2334,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+11-03-2023 00:00,STU2335,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+22-10-2023 00:00,STU2336,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+08-01-2023 00:00,STU2337,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+03-09-2023 00:00,STU2338,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+24-11-2023 00:00,STU2339,Tech Fest 2023,Fest,Mech,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,2,1,3,Negative
+22-11-2023 00:00,STU2340,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+03-06-2023 00:00,STU2341,Tech Fest 2023,Fest,Civil,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,1,1,1,Negative
+08-12-2023 00:00,STU2342,Hackathon,Hackathon,Cs,1,"I hated the Hackathon, it was terrible and a complete waste of time today.",2,3,1,2,Negative
+21-12-2023 00:00,STU2343,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,1,1,2,Negative
+23-09-2023 00:00,STU2344,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+05-06-2023 00:00,STU2345,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,1,1,4,Neutral
+26-12-2023 00:00,STU2346,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+29-11-2023 00:00,STU2347,Tech Fest 2023,Fest,Civil,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",1,1,1,1,Negative
+17-08-2023 00:00,STU2348,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+11-01-2023 00:00,STU2349,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+06-11-2023 00:00,STU2350,AI Workshop,Workshop,Mech,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,2,1,4,Negative
+13-04-2023 00:00,STU2351,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+24-03-2023 00:00,STU2352,AI Workshop,Workshop,Cs,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,2,1,4,Neutral
+24-10-2023 00:00,STU2353,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+06-08-2023 00:00,STU2354,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+26-09-2023 00:00,STU2355,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+09-07-2023 00:00,STU2356,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+30-08-2023 00:00,STU2357,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+12-09-2023 00:00,STU2358,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+27-10-2023 00:00,STU2359,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+09-09-2023 00:00,STU2360,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+16-07-2023 00:00,STU2361,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+09-04-2023 00:00,STU2362,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+13-08-2023 00:00,STU2363,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+13-11-2023 00:00,STU2364,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+12-03-2023 00:00,STU2365,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+15-03-2023 00:00,STU2366,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+20-11-2023 00:00,STU2367,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+16-05-2023 00:00,STU2368,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+01-01-2023 00:00,STU2369,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+28-07-2023 00:00,STU2370,AI Workshop,Workshop,It,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,3,1,1,Negative
+17-08-2023 00:00,STU2371,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+19-03-2023 00:00,STU2372,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+17-02-2023 00:00,STU2373,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+02-11-2023 00:00,STU2374,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+19-08-2023 00:00,STU2375,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+04-08-2023 00:00,STU2376,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+11-11-2023 00:00,STU2377,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+24-02-2023 00:00,STU2378,Tech Fest 2023,Fest,Mech,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,2,1,3,Negative
+08-07-2023 00:00,STU2379,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+26-04-2023 00:00,STU2380,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+12-03-2023 00:00,STU2381,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+16-03-2023 00:00,STU2382,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+11-05-2023 00:00,STU2383,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+14-08-2023 00:00,STU2384,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+24-12-2023 00:00,STU2385,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+15-07-2023 00:00,STU2386,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+20-09-2023 00:00,STU2387,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",1,2,1,4,Neutral
+21-01-2023 00:00,STU2388,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+01-02-2023 00:00,STU2389,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+14-10-2023 00:00,STU2390,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+21-03-2023 00:00,STU2391,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+07-08-2023 00:00,STU2392,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+23-07-2023 00:00,STU2393,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+27-01-2023 00:00,STU2394,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+27-02-2023 00:00,STU2395,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+10-01-2023 00:00,STU2396,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+17-05-2023 00:00,STU2397,Hackathon,Hackathon,Cs,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",1,2,1,3,Neutral
+21-12-2023 00:00,STU2398,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+03-12-2023 00:00,STU2399,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+07-09-2023 00:00,STU2400,Cloud Seminar,Seminar,It,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",1,1,1,5,Negative
+24-05-2023 00:00,STU2401,Tech Fest 2023,Fest,Mech,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,2,1,2,Neutral
+23-07-2023 00:00,STU2402,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+18-11-2023 00:00,STU2403,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+29-06-2023 00:00,STU2404,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+06-04-2023 00:00,STU2405,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+08-03-2023 00:00,STU2406,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+08-04-2023 00:00,STU2407,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+26-06-2023 00:00,STU2408,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,1,1,3,Neutral
+07-11-2023 00:00,STU2409,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+07-06-2023 00:00,STU2410,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+18-02-2023 00:00,STU2411,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,1,1,1,Neutral
+12-02-2023 00:00,STU2412,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+31-05-2023 00:00,STU2413,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+15-04-2023 00:00,STU2414,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+18-08-2023 00:00,STU2415,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+30-06-2023 00:00,STU2416,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+02-04-2023 00:00,STU2417,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+02-05-2023 00:00,STU2418,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+16-11-2023 00:00,STU2419,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+06-04-2023 00:00,STU2420,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+08-12-2023 00:00,STU2421,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+25-02-2023 00:00,STU2422,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+14-12-2023 00:00,STU2423,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+09-01-2023 00:00,STU2424,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+03-05-2023 00:00,STU2425,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+22-08-2023 00:00,STU2426,Hackathon,Hackathon,It,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",2,3,1,4,Negative
+17-07-2023 00:00,STU2427,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+17-10-2023 00:00,STU2428,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+18-02-2023 00:00,STU2429,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+05-09-2023 00:00,STU2430,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+17-01-2023 00:00,STU2431,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+20-12-2023 00:00,STU2432,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+24-11-2023 00:00,STU2433,Cloud Seminar,Seminar,Cs,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",2,1,1,2,Negative
+14-02-2023 00:00,STU2434,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+02-05-2023 00:00,STU2435,AI Workshop,Workshop,Mech,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,3,1,4,Negative
+06-10-2023 00:00,STU2436,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+21-12-2023 00:00,STU2437,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+24-09-2023 00:00,STU2438,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+17-05-2023 00:00,STU2439,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+15-01-2023 00:00,STU2440,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+22-09-2023 00:00,STU2441,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+12-08-2023 00:00,STU2442,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+15-05-2023 00:00,STU2443,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+01-03-2023 00:00,STU2444,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,3,1,3,Neutral
+22-05-2023 00:00,STU2445,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+08-10-2023 00:00,STU2446,Tech Fest 2023,Fest,It,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,2,1,1,Neutral
+12-06-2023 00:00,STU2447,Tech Fest 2023,Fest,Mech,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,3,1,5,Neutral
+26-10-2023 00:00,STU2448,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+18-08-2023 00:00,STU2449,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+08-05-2023 00:00,STU2450,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+15-12-2023 00:00,STU2451,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+22-09-2023 00:00,STU2452,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+04-09-2023 00:00,STU2453,Tech Fest 2023,Fest,Cs,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,2,1,3,Neutral
+05-11-2023 00:00,STU2454,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+09-03-2023 00:00,STU2455,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+31-05-2023 00:00,STU2456,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+02-11-2023 00:00,STU2457,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,3,1,2,Neutral
+04-12-2023 00:00,STU2458,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+25-12-2023 00:00,STU2459,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+10-10-2023 00:00,STU2460,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+17-02-2023 00:00,STU2461,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+10-08-2023 00:00,STU2462,Cloud Seminar,Seminar,Civil,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,1,1,1,Negative
+09-04-2023 00:00,STU2463,Tech Fest 2023,Fest,Cs,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,2,1,5,Negative
+20-04-2023 00:00,STU2464,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+29-07-2023 00:00,STU2465,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+12-05-2023 00:00,STU2466,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+03-07-2023 00:00,STU2467,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,2,1,1,Neutral
+15-01-2023 00:00,STU2468,Hackathon,Hackathon,Mech,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",2,1,1,5,Neutral
+13-08-2023 00:00,STU2469,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,1,1,2,Neutral
+24-09-2023 00:00,STU2470,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+20-02-2023 00:00,STU2471,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+04-02-2023 00:00,STU2472,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+14-04-2023 00:00,STU2473,Tech Fest 2023,Fest,Civil,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,1,1,1,Negative
+27-11-2023 00:00,STU2474,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+10-08-2023 00:00,STU2475,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+25-11-2023 00:00,STU2476,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+01-04-2023 00:00,STU2477,Tech Fest 2023,Fest,Cs,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,2,1,4,Neutral
+20-09-2023 00:00,STU2478,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+07-01-2023 00:00,STU2479,AI Workshop,Workshop,Cs,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",3,2,1,4,Neutral
+02-07-2023 00:00,STU2480,AI Workshop,Workshop,It,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",1,2,1,2,Negative
+23-08-2023 00:00,STU2481,Cloud Seminar,Seminar,It,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,1,1,1,Negative
+14-05-2023 00:00,STU2482,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+27-10-2023 00:00,STU2483,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+18-05-2023 00:00,STU2484,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+15-08-2023 00:00,STU2485,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+01-01-2023 00:00,STU2486,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+23-11-2023 00:00,STU2487,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+12-06-2023 00:00,STU2488,Hackathon,Hackathon,Civil,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",3,2,1,4,Neutral
+26-03-2023 00:00,STU2489,AI Workshop,Workshop,Civil,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,1,1,1,Neutral
+28-01-2023 00:00,STU2490,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+06-11-2023 00:00,STU2491,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",1,1,1,2,Negative
+23-02-2023 00:00,STU2492,Tech Fest 2023,Fest,Mech,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",1,1,1,1,Negative
+14-03-2023 00:00,STU2493,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+06-11-2023 00:00,STU2494,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+19-10-2023 00:00,STU2495,AI Workshop,Workshop,It,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,3,1,1,Neutral
+13-06-2023 00:00,STU2496,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+05-11-2023 00:00,STU2497,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+30-06-2023 00:00,STU2498,Tech Fest 2023,Fest,Mech,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,3,1,2,Neutral
+23-07-2023 00:00,STU2499,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+20-03-2023 00:00,STU2500,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+28-05-2023 00:00,STU2501,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+30-04-2023 00:00,STU2502,Hackathon,Hackathon,It,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",3,1,1,3,Neutral
+02-06-2023 00:00,STU2503,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+01-12-2023 00:00,STU2504,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+16-02-2023 00:00,STU2505,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+30-06-2023 00:00,STU2506,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+14-06-2023 00:00,STU2507,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+08-02-2023 00:00,STU2508,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,2,1,1,Neutral
+22-03-2023 00:00,STU2509,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+11-08-2023 00:00,STU2510,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+16-11-2023 00:00,STU2511,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+17-03-2023 00:00,STU2512,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+14-09-2023 00:00,STU2513,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+01-09-2023 00:00,STU2514,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+01-06-2023 00:00,STU2515,Tech Fest 2023,Fest,Mech,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+06-08-2023 00:00,STU2516,Hackathon,Hackathon,Mech,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",3,1,1,1,Negative
+17-07-2023 00:00,STU2517,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+14-06-2023 00:00,STU2518,Hackathon,Hackathon,Mech,1,"I hated the Hackathon, it was terrible and a complete waste of time today.",1,2,1,1,Negative
+25-09-2023 00:00,STU2519,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+10-04-2023 00:00,STU2520,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+30-06-2023 00:00,STU2521,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+15-02-2023 00:00,STU2522,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+08-03-2023 00:00,STU2523,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+01-03-2023 00:00,STU2524,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+21-03-2023 00:00,STU2525,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+27-12-2023 00:00,STU2526,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+14-06-2023 00:00,STU2527,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+24-06-2023 00:00,STU2528,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+22-06-2023 00:00,STU2529,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+04-12-2023 00:00,STU2530,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+28-09-2023 00:00,STU2531,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+05-01-2023 00:00,STU2532,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+02-12-2023 00:00,STU2533,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+06-11-2023 00:00,STU2534,Tech Fest 2023,Fest,It,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,1,1,2,Neutral
+16-06-2023 00:00,STU2535,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+05-11-2023 00:00,STU2536,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+04-01-2023 00:00,STU2537,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+29-11-2023 00:00,STU2538,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+21-04-2023 00:00,STU2539,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+13-04-2023 00:00,STU2540,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+14-11-2023 00:00,STU2541,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+04-09-2023 00:00,STU2542,Hackathon,Hackathon,Mech,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",3,3,1,3,Negative
+25-06-2023 00:00,STU2543,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+03-11-2023 00:00,STU2544,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+05-08-2023 00:00,STU2545,Cloud Seminar,Seminar,Civil,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",3,3,1,2,Negative
+04-03-2023 00:00,STU2546,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+30-06-2023 00:00,STU2547,Cloud Seminar,Seminar,Mech,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+03-11-2023 00:00,STU2548,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+23-09-2023 00:00,STU2549,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+19-04-2023 00:00,STU2550,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+30-07-2023 00:00,STU2551,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+24-02-2023 00:00,STU2552,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+12-06-2023 00:00,STU2553,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+24-08-2023 00:00,STU2554,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+11-03-2023 00:00,STU2555,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+30-11-2023 00:00,STU2556,Hackathon,Hackathon,Cs,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",3,2,1,1,Negative
+23-07-2023 00:00,STU2557,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+12-07-2023 00:00,STU2558,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+15-08-2023 00:00,STU2559,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+03-05-2023 00:00,STU2560,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+21-12-2023 00:00,STU2561,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+26-07-2023 00:00,STU2562,AI Workshop,Workshop,Cs,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",2,1,1,1,Neutral
+25-04-2023 00:00,STU2563,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+02-09-2023 00:00,STU2564,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+09-12-2023 00:00,STU2565,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+17-05-2023 00:00,STU2566,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+01-12-2023 00:00,STU2567,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+28-08-2023 00:00,STU2568,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+15-10-2023 00:00,STU2569,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+29-08-2023 00:00,STU2570,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+30-03-2023 00:00,STU2571,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+14-08-2023 00:00,STU2572,AI Workshop,Workshop,Civil,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,3,1,2,Neutral
+22-12-2023 00:00,STU2573,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+05-12-2023 00:00,STU2574,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+05-06-2023 00:00,STU2575,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+05-12-2023 00:00,STU2576,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+21-04-2023 00:00,STU2577,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+25-08-2023 00:00,STU2578,Tech Fest 2023,Fest,Mech,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,3,1,3,Negative
+05-07-2023 00:00,STU2579,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+16-06-2023 00:00,STU2580,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+29-10-2023 00:00,STU2581,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+30-05-2023 00:00,STU2582,Cloud Seminar,Seminar,Civil,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",2,2,1,2,Negative
+03-01-2023 00:00,STU2583,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+04-09-2023 00:00,STU2584,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",1,3,1,4,Neutral
+15-01-2023 00:00,STU2585,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+06-03-2023 00:00,STU2586,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+18-01-2023 00:00,STU2587,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+12-08-2023 00:00,STU2588,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+27-08-2023 00:00,STU2589,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+24-04-2023 00:00,STU2590,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+26-04-2023 00:00,STU2591,Cloud Seminar,Seminar,Civil,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,3,1,1,Neutral
+27-11-2023 00:00,STU2592,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+19-06-2023 00:00,STU2593,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+03-02-2023 00:00,STU2594,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+07-02-2023 00:00,STU2595,Cloud Seminar,Seminar,Cs,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+01-01-2023 00:00,STU2596,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+19-04-2023 00:00,STU2597,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+17-07-2023 00:00,STU2598,AI Workshop,Workshop,Cs,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,3,1,1,Negative
+11-09-2023 00:00,STU2599,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+29-01-2023 00:00,STU2600,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+25-09-2023 00:00,STU2601,Cloud Seminar,Seminar,Civil,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",1,3,1,5,Negative
+30-07-2023 00:00,STU2602,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+11-04-2023 00:00,STU2603,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+03-05-2023 00:00,STU2604,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+20-04-2023 00:00,STU2605,Hackathon,Hackathon,Civil,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",2,3,1,2,Neutral
+17-11-2023 00:00,STU2606,Hackathon,Hackathon,It,2,"I hated the Hackathon, it was terrible and a complete waste of time today.",3,1,1,2,Negative
+11-01-2023 00:00,STU2607,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+13-02-2023 00:00,STU2608,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+14-05-2023 00:00,STU2609,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+11-08-2023 00:00,STU2610,Cloud Seminar,Seminar,Cs,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,2,1,2,Neutral
+16-03-2023 00:00,STU2611,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+17-02-2023 00:00,STU2612,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+15-06-2023 00:00,STU2613,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,3,1,1,Neutral
+15-08-2023 00:00,STU2614,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+14-06-2023 00:00,STU2615,Tech Fest 2023,Fest,It,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,2,1,2,Neutral
+11-12-2023 00:00,STU2616,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+24-12-2023 00:00,STU2617,Tech Fest 2023,Fest,Civil,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,1,1,3,Negative
+28-09-2023 00:00,STU2618,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+15-01-2023 00:00,STU2619,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+27-01-2023 00:00,STU2620,AI Workshop,Workshop,Civil,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,1,1,3,Negative
+23-01-2023 00:00,STU2621,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+30-05-2023 00:00,STU2622,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+08-12-2023 00:00,STU2623,AI Workshop,Workshop,Civil,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",3,2,1,3,Neutral
+23-04-2023 00:00,STU2624,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+09-06-2023 00:00,STU2625,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+28-02-2023 00:00,STU2626,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+02-07-2023 00:00,STU2627,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+22-04-2023 00:00,STU2628,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,1,1,4,Neutral
+09-06-2023 00:00,STU2629,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+26-01-2023 00:00,STU2630,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+15-07-2023 00:00,STU2631,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+09-07-2023 00:00,STU2632,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+08-11-2023 00:00,STU2633,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+03-06-2023 00:00,STU2634,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+30-01-2023 00:00,STU2635,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+08-07-2023 00:00,STU2636,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+29-05-2023 00:00,STU2637,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+17-01-2023 00:00,STU2638,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+03-12-2023 00:00,STU2639,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+15-02-2023 00:00,STU2640,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+07-04-2023 00:00,STU2641,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+27-10-2023 00:00,STU2642,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+02-04-2023 00:00,STU2643,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+23-05-2023 00:00,STU2644,Tech Fest 2023,Fest,Civil,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",3,3,1,3,Negative
+27-01-2023 00:00,STU2645,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+09-11-2023 00:00,STU2646,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+11-08-2023 00:00,STU2647,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+27-07-2023 00:00,STU2648,Hackathon,Hackathon,It,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",3,3,1,2,Neutral
+19-01-2023 00:00,STU2649,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,4,Positive
+06-09-2023 00:00,STU2650,Cloud Seminar,Seminar,Cs,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",2,3,1,1,Negative
+06-01-2023 00:00,STU2651,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+06-01-2023 00:00,STU2652,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+20-08-2023 00:00,STU2653,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+23-10-2023 00:00,STU2654,Cloud Seminar,Seminar,Civil,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",3,1,1,5,Neutral
+10-04-2023 00:00,STU2655,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+22-04-2023 00:00,STU2656,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+03-10-2023 00:00,STU2657,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+23-07-2023 00:00,STU2658,Cloud Seminar,Seminar,It,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",1,3,1,3,Neutral
+11-08-2023 00:00,STU2659,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+17-04-2023 00:00,STU2660,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+10-10-2023 00:00,STU2661,Tech Fest 2023,Fest,Cs,2,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",1,1,1,2,Negative
+11-03-2023 00:00,STU2662,AI Workshop,Workshop,Mech,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,3,1,5,Neutral
+04-06-2023 00:00,STU2663,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+30-06-2023 00:00,STU2664,Tech Fest 2023,Fest,Cs,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",1,3,1,5,Neutral
+13-03-2023 00:00,STU2665,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+13-06-2023 00:00,STU2666,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+15-03-2023 00:00,STU2667,AI Workshop,Workshop,Civil,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+10-01-2023 00:00,STU2668,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+13-02-2023 00:00,STU2669,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+08-01-2023 00:00,STU2670,Tech Fest 2023,Fest,Cs,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+26-05-2023 00:00,STU2671,AI Workshop,Workshop,Mech,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,1,1,2,Negative
+21-06-2023 00:00,STU2672,Tech Fest 2023,Fest,Mech,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+22-07-2023 00:00,STU2673,Hackathon,Hackathon,Civil,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+08-01-2023 00:00,STU2674,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+08-11-2023 00:00,STU2675,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,3,Positive
+08-07-2023 00:00,STU2676,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+03-01-2023 00:00,STU2677,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+25-04-2023 00:00,STU2678,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+02-02-2023 00:00,STU2679,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+11-12-2023 00:00,STU2680,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+05-02-2023 00:00,STU2681,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+14-05-2023 00:00,STU2682,Tech Fest 2023,Fest,Civil,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+04-11-2023 00:00,STU2683,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+04-04-2023 00:00,STU2684,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+02-05-2023 00:00,STU2685,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+07-03-2023 00:00,STU2686,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+01-01-2023 00:00,STU2687,Hackathon,Hackathon,Mech,1,"I hated the Hackathon, it was terrible and a complete waste of time today.",2,2,1,4,Negative
+03-01-2023 00:00,STU2688,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+11-08-2023 00:00,STU2689,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+09-06-2023 00:00,STU2690,AI Workshop,Workshop,Mech,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,2,1,1,Negative
+30-01-2023 00:00,STU2691,AI Workshop,Workshop,It,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",3,2,1,3,Neutral
+18-07-2023 00:00,STU2692,Cloud Seminar,Seminar,Civil,1,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",2,2,1,4,Negative
+06-02-2023 00:00,STU2693,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+07-11-2023 00:00,STU2694,Cloud Seminar,Seminar,Cs,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",2,3,1,3,Neutral
+12-07-2023 00:00,STU2695,Cloud Seminar,Seminar,Civil,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,3,Positive
+21-07-2023 00:00,STU2696,Tech Fest 2023,Fest,It,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,3,1,2,Negative
+11-12-2023 00:00,STU2697,Hackathon,Hackathon,It,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",3,1,1,4,Neutral
+19-05-2023 00:00,STU2698,Tech Fest 2023,Fest,It,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+24-05-2023 00:00,STU2699,AI Workshop,Workshop,Civil,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+12-04-2023 00:00,STU2700,Tech Fest 2023,Fest,Mech,1,"I hated the Tech Fest 2023, it was terrible and a complete waste of time today.",2,3,1,5,Negative
+20-04-2023 00:00,STU2701,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,3,1,2,Neutral
+19-01-2023 00:00,STU2702,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+04-07-2023 00:00,STU2703,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+25-02-2023 00:00,STU2704,AI Workshop,Workshop,Mech,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+17-05-2023 00:00,STU2705,Hackathon,Hackathon,Cs,4,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,5,Positive
+28-04-2023 00:00,STU2706,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+31-10-2023 00:00,STU2707,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,2,Positive
+24-07-2023 00:00,STU2708,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+28-04-2023 00:00,STU2709,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+02-11-2023 00:00,STU2710,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+21-05-2023 00:00,STU2711,AI Workshop,Workshop,It,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+14-07-2023 00:00,STU2712,AI Workshop,Workshop,It,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,3,1,3,Neutral
+30-05-2023 00:00,STU2713,Hackathon,Hackathon,Cs,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",1,2,1,2,Neutral
+21-08-2023 00:00,STU2714,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+23-07-2023 00:00,STU2715,Hackathon,Hackathon,It,5,The Hackathon was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+06-09-2023 00:00,STU2716,AI Workshop,Workshop,Civil,3,"The AI Workshop was decent, but it felt a little bit repetitive in some sections.",1,3,1,1,Neutral
+27-12-2023 00:00,STU2717,Cloud Seminar,Seminar,Civil,2,"I hated the Cloud Seminar, it was terrible and a complete waste of time today.",2,1,1,5,Negative
+05-10-2023 00:00,STU2718,Cloud Seminar,Seminar,Civil,4,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,4,Positive
+09-06-2023 00:00,STU2719,AI Workshop,Workshop,Mech,4,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+15-11-2023 00:00,STU2720,Tech Fest 2023,Fest,Cs,5,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+18-03-2023 00:00,STU2721,Hackathon,Hackathon,Civil,3,"The Hackathon was decent, but it felt a little bit repetitive in some sections.",1,2,1,1,Neutral
+19-05-2023 00:00,STU2722,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,5,1,5,Positive
+10-10-2023 00:00,STU2723,AI Workshop,Workshop,It,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",2,1,1,2,Negative
+11-05-2023 00:00,STU2724,AI Workshop,Workshop,It,2,"I hated the AI Workshop, it was terrible and a complete waste of time today.",1,3,1,2,Negative
+10-06-2023 00:00,STU2725,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+17-08-2023 00:00,STU2726,Tech Fest 2023,Fest,It,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,4,1,5,Positive
+08-06-2023 00:00,STU2727,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+25-03-2023 00:00,STU2728,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,1,Positive
+05-02-2023 00:00,STU2729,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+26-12-2023 00:00,STU2730,Cloud Seminar,Seminar,It,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,3,Positive
+15-01-2023 00:00,STU2731,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",2,2,1,2,Neutral
+23-03-2023 00:00,STU2732,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,4,4,1,1,Positive
+30-06-2023 00:00,STU2733,AI Workshop,Workshop,Cs,4,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+25-05-2023 00:00,STU2734,AI Workshop,Workshop,Mech,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,1,1,4,Negative
+16-01-2023 00:00,STU2735,Hackathon,Hackathon,Mech,4,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,4,Positive
+01-11-2023 00:00,STU2736,Cloud Seminar,Seminar,Mech,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+13-11-2023 00:00,STU2737,Cloud Seminar,Seminar,It,4,The Cloud Seminar was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+06-05-2023 00:00,STU2738,Hackathon,Hackathon,It,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,2,Positive
+09-10-2023 00:00,STU2739,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,4,1,3,Positive
+01-03-2023 00:00,STU2740,AI Workshop,Workshop,Mech,1,"I hated the AI Workshop, it was terrible and a complete waste of time today.",3,3,1,1,Negative
+02-12-2023 00:00,STU2741,Tech Fest 2023,Fest,Civil,4,The Tech Fest 2023 was an amazing and highly informative experience for all students.,4,5,1,1,Positive
+06-01-2023 00:00,STU2742,Hackathon,Hackathon,Civil,4,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,1,Positive
+08-04-2023 00:00,STU2743,AI Workshop,Workshop,It,5,The AI Workshop was an amazing and highly informative experience for all students.,5,4,1,4,Positive
+30-01-2023 00:00,STU2744,Tech Fest 2023,Fest,Civil,3,"The Tech Fest 2023 was decent, but it felt a little bit repetitive in some sections.",3,2,1,5,Neutral
+22-09-2023 00:00,STU2745,AI Workshop,Workshop,Cs,5,The AI Workshop was an amazing and highly informative experience for all students.,4,5,1,2,Positive
+26-07-2023 00:00,STU2746,Hackathon,Hackathon,Cs,5,The Hackathon was an amazing and highly informative experience for all students.,5,4,1,5,Positive
+28-01-2023 00:00,STU2747,Hackathon,Hackathon,Mech,5,The Hackathon was an amazing and highly informative experience for all students.,5,5,1,2,Positive
+12-02-2023 00:00,STU2748,Cloud Seminar,Seminar,Mech,3,"The Cloud Seminar was decent, but it felt a little bit repetitive in some sections.",1,1,1,5,Neutral
+09-11-2023 00:00,STU2749,Cloud Seminar,Seminar,Cs,5,The Cloud Seminar was an amazing and highly informative experience for all students.,5,5,1,1,Positive
