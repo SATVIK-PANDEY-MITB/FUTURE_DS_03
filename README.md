@@ -72,6 +72,4 @@ Analyze insights to support data-driven event planning
 This dashboard demonstrates how data science and sentiment analysis can be used to transform student feedback into actionable insights.
 It highlights the power of Power BI and NLP in improving decision-making for campus event planning and student engagement.
 
-## 👤 Author
 
-Satvik Pandey
